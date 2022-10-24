@@ -1,0 +1,46 @@
+body{
+
+}
+.grid-container{
+    display: grid;
+    background-color: rgb(84, 103, 122);
+    height: 80px;
+   /* width: 180vh;*/
+    color: white;
+    text-align: left;
+    line-height: 77px;
+
+    
+
+}
+.new{
+    display: flex;
+}
+.item1{
+    
+    background-color:  rosybrown;
+    width: 60%;
+    height: 30vmax;
+    text-align: center;
+    line-height: 50vh;
+    font-style: normal;
+    color: white;
+    font-size: xx-large;
+}
+.item2{
+    
+    background-color: rgb(167, 102, 16);
+    height: 30vmax;
+    width: 42%;
+    text-align: center;
+    line-height: 50vh;
+    color: white;
+    font-size: xx-large;
+
+}
+.item3{
+    display: flex;
+    background-color: rgb(2, 75, 75);
+    height: 128px;
+    color: aqua;
+}
